@@ -1,0 +1,62 @@
+
+
+body{
+    color: orange;
+    background: rgb(31, 31, 31);
+    margin: 3px;
+    font-family: "Lora", serif;
+    margin-bottom: 75px;
+    }
+
+header{
+    border-bottom: solid 3px orange;
+    padding: 20px;
+    font-size: 32px;
+    color: orange
+    }
+
+.kagehina{
+    background: black;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    display: flex;
+    justify-content: center;
+}
+.s-class{
+    margin-right: 5%;
+}
+
+h1{
+    font-size:40px;
+}
+
+p{
+    font-size: 20px;
+}
+
+.s-class-jr{
+    display: flex;
+    overflow-x: auto;
+    gap: 5px;
+}
+
+.tsukiyama{
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
+}
+
+.s-class-jr img {
+    opacity: 0.5;
+    height: 150px;
+}
+
+.s-class-jr img:hover {
+    opacity: 1.0;
+    border: 3px solid white;
+}
+
+.tsukiyama h2 {
+    color: orange;
+
+}
